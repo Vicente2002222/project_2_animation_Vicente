@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <!-- page content -->
-  </body>
-</html>
+@import url("https://fonts.googleapis.com/css?family=Ruslan+Display");
+
+h1 {
+  font-family: Ruslan Display;
+}
+body{
+  background-image:url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/
+  06/galaxy-wallpapers-9.jpg");
+}
