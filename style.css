@@ -2,8 +2,11 @@
 
 h1 {
   font-family: Ruslan Display;
+  color: red
 }
 body{
-  background-image:url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/
-  06/galaxy-wallpapers-9.jpg");
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg");
+}
+p{
+  color:cyan
 }
